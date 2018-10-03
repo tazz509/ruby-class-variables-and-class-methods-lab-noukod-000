@@ -1,4 +1,4 @@
-class song
+clas song
   def son_genre
     song
   end
